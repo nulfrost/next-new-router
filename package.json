@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "12.3.2-canary.28",
+    "react": "0.0.0-experimental-3b814327e-20221014",
+    "react-dom": "0.0.0-experimental-3b814327e-20221014"
   },
   "devDependencies": {
     "eslint": "8.26.0",
